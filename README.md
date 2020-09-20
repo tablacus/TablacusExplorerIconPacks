@@ -38,6 +38,7 @@ Icon packs for Tablacus Explorer
     "creator": {
       "en": "Gaku"
     },
+    "version": "1.00",
     "pubDate" : "Thu, 17 Sep 2020 00:00:00 GMT",
     "license": "MIT License",
     "URL": "http://tablacus.github.io/TablacusExplorerAddons/"
