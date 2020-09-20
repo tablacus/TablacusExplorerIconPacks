@@ -5,9 +5,8 @@ Icon packs for Tablacus Explorer
 
 ### Folders and files
 ```
-┣ icons
-┃　┣ config.json
-┃　┗ preview.png (Optional)
+┣ config.json
+┣ preview.png (Optional)
 ┃
 ┣ general (Optional)
 ┃　┣ 0.png
@@ -68,21 +67,21 @@ max is the number of the last icon
 ### General icons
 ![image](https://user-images.githubusercontent.com/5156977/93665978-8bd15d80-fab5-11ea-87be-23ffe9295c2b.png)
 
-bitmap:ieframe.dll,216,16,4 → icons\general\4.png
+bitmap:ieframe.dll,216,16,4 → general\4.png
 
-bitmap:ieframe.dll,214,24,4 → icons\general\4.png
+bitmap:ieframe.dll,214,24,4 → general\4.png
 
 ### Browser icons
 ![image](https://user-images.githubusercontent.com/5156977/93665999-ab688600-fab5-11ea-967e-9111c5a638e9.png)
 
-bitmap:ieframe.dll,206,16,18 → icons\browser\18.png
+bitmap:ieframe.dll,206,16,18 → browser\18.png
 
-bitmap:ieframe.dll,204,24,18 → icons\browser\18.png
+bitmap:ieframe.dll,204,24,18 → browser\18.png
 
 ### shell32 icons
 ![image](https://user-images.githubusercontent.com/5156977/93666031-d6eb7080-fab5-11ea-9a74-2449e5047f10.png)
 
-icon:shell32.dll,12 → icons\shell32\12.png
+icon:shell32.dll,12 → shell32\12.png
 
 You only need to prepare the icons you want to replace.
 
