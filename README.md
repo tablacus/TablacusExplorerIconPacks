@@ -40,6 +40,7 @@ Let's use png.
     "creator": {
       "en": "Gaku"
     },
+    "pubDate" : "Thu, 17 Sep 2020 00:00:00 GMT",
     "license": "MIT License",
     "URL": "http://tablacus.github.io/TablacusExplorerAddons/"
   },
