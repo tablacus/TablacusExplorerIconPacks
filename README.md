@@ -90,10 +90,13 @@ The icon size should be around 48px to 96px, but you can set it to any number in
 
 The `preview.png` will appear on the download list page to help the user choose an icon set.
 
-##User Interface
+## User Interface
 
 Downloading icon packs can be done from inside the Tablacus UI like addons
 
+ ![image](https://user-images.githubusercontent.com/5156977/93667643-8595ae00-fac2-11ea-8e6f-2738fec8604e.png)
+ 
+ It will have a separate download page in gallery format with previews
 　|　
 -|-
 ![image](https://user-images.githubusercontent.com/5156977/93691921-130ae980-fb27-11ea-8091-3b0054cd92e7.png)|**Icon Pack A Name**<br>Creator<br>Description<br>…………<br>…………<br>![image](https://user-images.githubusercontent.com/5156977/93692109-f7551280-fb29-11ea-808c-87fc3b7b94fe.png)<br>
