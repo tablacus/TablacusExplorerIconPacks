@@ -60,8 +60,9 @@ Icon packs for Tablacus Explorer
 }
 ```
 - **URL:** is optional.
-- **Size:** is the size of the icon in pixels (Optional)
-- **Max:** is the number of the last icon (Optional)
+- **icons:** is optional.
+- **size:** is the size of the icon in pixels (Optional)
+- **max:** is the number of the last icon (Optional)
 
 ### General icons
 ![image](https://user-images.githubusercontent.com/5156977/93665978-8bd15d80-fab5-11ea-87be-23ffe9295c2b.png)
