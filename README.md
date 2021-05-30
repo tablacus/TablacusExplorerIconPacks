@@ -68,12 +68,17 @@ Icon packs for Tablacus Explorer
 ### General icons
 ![image](https://user-images.githubusercontent.com/5156977/93665978-8bd15d80-fab5-11ea-87be-23ffe9295c2b.png)
 
+`icon:general,4` → `general\4.png`
+
 `bitmap:ieframe.dll,216,16,4` → `general\4.png`
 
 `bitmap:ieframe.dll,214,24,4` → `general\4.png`
 
 ### Browser icons
 ![image](https://user-images.githubusercontent.com/5156977/93665999-ab688600-fab5-11ea-967e-9111c5a638e9.png)
+
+
+`icon:browser,18` → `browser\18.png`
 
 `bitmap:ieframe.dll,206,16,18` → `browser\18.png`
 
