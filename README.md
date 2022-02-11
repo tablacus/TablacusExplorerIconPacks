@@ -98,7 +98,7 @@ You only need to prepare the icons you want to replace.
 
 The default icon will be used for the missing parts.
 
-The icon size should be around 48px to 96px, but you can set it to any number in config.json.
+The PNG icon size should be around 48px to 96px, but you can set it to any number in config.json.
 
 The `preview.png` will appear on the download list page to help the user choose an icon set.
 
