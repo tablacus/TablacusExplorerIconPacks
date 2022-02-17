@@ -110,7 +110,7 @@ Downloading icon packs can be done from inside the Tablacus UI like addons
  
  It will have a separate download page in gallery format with previews
 
-![image](https://user-images.githubusercontent.com/5156977/93883444-86298100-fd1c-11ea-8cd7-cb24ab2e8394.png)
+![image](https://user-images.githubusercontent.com/8735426/154456128-0d5c9e7e-1826-4e14-9857-b0f68caa5c80.png)
 
 ## Vector Icons
 
