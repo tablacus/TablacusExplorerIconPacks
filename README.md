@@ -110,4 +110,34 @@ Downloading icon packs can be done from inside the Tablacus UI like addons
  
  It will have a separate download page in gallery format with previews
 
-![image](https://user-images.githubusercontent.com/5156977/93883444-86298100-fd1c-11ea-8cd7-cb24ab2e8394.png)
+![image](https://user-images.githubusercontent.com/8735426/154456128-0d5c9e7e-1826-4e14-9857-b0f68caa5c80.png)
+
+## Vector Icons
+
+Tablacus supports [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics) based vector icons.
+Vector graphics scale well to larger sizes. Because they are defined as shapes composed of points, lines, curves, fills and strokes, they never pixelate when enlarged.
+Since vector icons are based on discrete elements rather than images, they are not static and may be styled to match the current theme as required.
+
+While defining SVG icons for Tablacus you can use both styles and XML attributes to style your SVG elements. Any explicitly defined fill or stroke color will be respected. Themable elements that should change color according to Tablacus to match the current theme should use the variable `currentColor`.
+
+In this example the first circle fill color is defined as red and is respected by Tablacus regardless of current theme; on the second circle the stroke is defined as `currentColor` so it will dynamically use Tablacus text color to correctly match light or dark themes and always be visible regardless of background.
+
+```
+<svg class="text" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="50" cy="50" r="20" fill="#ff0000"/>
+  <circle cx="50" cy="50" r="45" stroke="currentColor"/>
+</svg>
+```
+|Light themes|Dark themes|
+|---|---|
+|![image](https://user-images.githubusercontent.com/5156977/153303536-1145737a-0fcd-4a85-b320-8e083205d365.png)|![image](https://user-images.githubusercontent.com/5156977/153303675-c08c5a91-a9bf-4c1b-876f-dee3e58aa1dd.png)|
+
+Defining appearance as styles is also supported and taken into account for theming as well
+
+```
+<svg class="text" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="50" cy="50" r="45" style="fill:#ff0000; fill-opacity:1"/>
+  <circle cx="50" cy="50" r="20" style="stroke:currentColor; stroke-opacity:1"/>
+</svg>
+```
+
