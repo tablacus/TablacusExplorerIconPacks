@@ -7,6 +7,7 @@
    viewBox="0 0 64 64"
    version="1.1"
    id="svg8"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -53,7 +54,7 @@
     </linearGradient>
     <linearGradient
        id="Icons_Light"
-       gradientTransform="matrix(2.8413103,-20.30844,11.663075,5.9851622,-29329.863,-49479.568)">
+       gradientTransform="matrix(2.8413103,20.30844,11.663075,-5.9851622,-28629.863,50887.568)">
       <stop
          style="stop-color:black;stop-opacity:1;"
          offset="0"
@@ -82,33 +83,57 @@
   <g
      id="layer3"
      style="display:inline"
-     transform="translate(-224,-415.99994)">
+     transform="translate(-896,-415.99999)">
     <g
-       id="03_TablacusVector\Misc\test"
-       transform="translate(0,96)">
+       id="03_TablacusVector\misc\sync_browse"
+       transform="translate(576,96.00005)">
       <rect
          y="319.99994"
-         x="224"
+         x="320"
          height="64"
          width="64"
-         id="use7748"
+         id="use9507"
          style="display:inline;fill:white;fill-opacity:0;stroke:none;stroke-linecap:round;stroke-opacity:1" />
       <rect
          y="319.99994"
-         x="224"
+         x="320"
          height="64"
          width="64"
-         id="use7916"
+         id="use9509"
          style="display:inline;fill:white;fill-opacity:0;stroke:none;stroke-linecap:round;stroke-opacity:1" />
+      <rect
+         style="fill:none;stroke:currentColor;stroke-width:4.00001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect9511"
+         width="48"
+         height="52"
+         x="326"
+         y="-378"
+         ry="0"
+         transform="scale(1,-1)" />
       <path
-         id="rect7666"
          style="fill:none;fill-opacity:0;stroke:currentColor;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
-         d="m 262,2382 h -32 v 44 h 44 v -32"
-         transform="translate(0,-2048)" />
+         id="path10127"
+         d="m 341.41104,360.5889 a 11.646027,11.646027 0 0 1 -2.52454,-12.69173 11.646027,11.646027 0 0 1 10.75953,-7.18928" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path10127"
+         id="use10531"
+         transform="rotate(180,350,351.99995)"
+         width="100%"
+         height="100%" />
       <path
-         id="path8257"
          style="fill:none;fill-opacity:0;stroke:currentColor;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
-         d="m 282,326 -30,30 m 14,-30 h 16 v 16" />
+         d="M 350,339.99995 V 325.9999"
+         id="path10632" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path10632"
+         id="use10714"
+         transform="matrix(1,0,0,-1,0,703.9999)"
+         width="100%"
+         height="100%" />
     </g>
   </g>
 </svg>

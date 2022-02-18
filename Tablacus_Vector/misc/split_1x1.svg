@@ -82,33 +82,33 @@
   <g
      id="layer3"
      style="display:inline"
-     transform="translate(-224,-415.99994)">
+     transform="translate(-512,-415.99994)">
     <g
-       id="03_TablacusVector\Misc\test"
-       transform="translate(0,96)">
+       id="03_TablacusVector\misc\split_1x1"
+       transform="translate(192,96)">
       <rect
          y="319.99994"
-         x="224"
+         x="320"
          height="64"
          width="64"
-         id="use7748"
+         id="use4783"
          style="display:inline;fill:white;fill-opacity:0;stroke:none;stroke-linecap:round;stroke-opacity:1" />
       <rect
          y="319.99994"
-         x="224"
+         x="320"
          height="64"
          width="64"
-         id="use7916"
+         id="use4785"
          style="display:inline;fill:white;fill-opacity:0;stroke:none;stroke-linecap:round;stroke-opacity:1" />
-      <path
-         id="rect7666"
-         style="fill:none;fill-opacity:0;stroke:currentColor;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
-         d="m 262,2382 h -32 v 44 h 44 v -32"
-         transform="translate(0,-2048)" />
-      <path
-         id="path8257"
-         style="fill:none;fill-opacity:0;stroke:currentColor;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
-         d="m 282,326 -30,30 m 14,-30 h 16 v 16" />
+      <rect
+         style="fill:none;stroke:currentColor;stroke-width:4.00001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect4787"
+         width="52"
+         height="52"
+         x="326"
+         y="-378"
+         ry="0"
+         transform="scale(1,-1)" />
     </g>
   </g>
 </svg>
