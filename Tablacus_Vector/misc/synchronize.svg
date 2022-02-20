@@ -16,6 +16,13 @@
   <defs
      id="defs2">
     <linearGradient
+       id="Cells">
+      <stop
+         style="stop-color:white;stop-opacity:1;"
+         offset="0"
+         id="stop23222" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient11602">
       <stop
          style="stop-color:black;stop-opacity:1;"
@@ -54,7 +61,7 @@
     </linearGradient>
     <linearGradient
        id="Icons_Light"
-       gradientTransform="matrix(2.8413103,20.30844,11.663075,-5.9851622,-28629.863,50887.568)">
+       gradientTransform="matrix(2.7833237,20.30844,11.425053,-5.9851622,-27914.114,50890.276)">
       <stop
          style="stop-color:black;stop-opacity:1;"
          offset="0"
@@ -85,7 +92,7 @@
      style="display:inline"
      transform="translate(-896,-415.99999)">
     <g
-       id="03_TablacusVector\misc\sync_browse"
+       id="03_TablacusVector\misc\synchronize"
        transform="translate(576,96.00005)">
       <rect
          y="319.99994"
@@ -95,43 +102,36 @@
          id="use9507"
          style="display:inline;fill:white;fill-opacity:0;stroke:none;stroke-linecap:round;stroke-opacity:1" />
       <rect
-         y="319.99994"
-         x="320"
-         height="64"
-         width="64"
-         id="use9509"
-         style="display:inline;fill:white;fill-opacity:0;stroke:none;stroke-linecap:round;stroke-opacity:1" />
-      <rect
          style="fill:none;stroke:currentColor;stroke-width:4.00001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect9511"
          width="48"
-         height="52"
+         height="47.99995"
          x="326"
-         y="-378"
+         y="-373.99988"
          ry="0"
          transform="scale(1,-1)" />
       <path
          style="fill:none;fill-opacity:0;stroke:currentColor;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
          id="path10127"
-         d="m 341.41104,360.5889 a 11.646027,11.646027 0 0 1 -2.52454,-12.69173 11.646027,11.646027 0 0 1 10.75953,-7.18928" />
+         d="m 341.41104,357.88095 a 11.646027,11.646027 0 0 1 -2.52454,-12.69173 11.646027,11.646027 0 0 1 10.75953,-7.18928" />
       <use
          x="0"
          y="0"
          xlink:href="#path10127"
          id="use10531"
-         transform="rotate(180,350,351.99995)"
+         transform="rotate(180,349.82301,349.99994)"
          width="100%"
          height="100%" />
       <path
          style="fill:none;fill-opacity:0;stroke:currentColor;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"
-         d="M 350,339.99995 V 325.9999"
+         d="M 350,337.99995 V 325.9999"
          id="path10632" />
       <use
          x="0"
          y="0"
          xlink:href="#path10632"
          id="use10714"
-         transform="matrix(1,0,0,-1,0,703.9999)"
+         transform="matrix(1,0,0,-1,0,699.99985)"
          width="100%"
          height="100%" />
     </g>

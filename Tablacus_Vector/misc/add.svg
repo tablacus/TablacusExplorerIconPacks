@@ -16,7 +16,36 @@
   <defs
      id="defs2">
     <linearGradient
-       id="Icons_Dark">
+       id="Cells">
+      <stop
+         style="stop-color:white;stop-opacity:1;"
+         offset="0"
+         id="stop23222" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient11602">
+      <stop
+         style="stop-color:black;stop-opacity:1;"
+         offset="0"
+         id="stop11600" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient10057">
+      <stop
+         style="stop-color:black;stop-opacity:1;"
+         offset="0"
+         id="stop10055" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient8425">
+      <stop
+         style="stop-color:black;stop-opacity:1;"
+         offset="0"
+         id="stop8423" />
+    </linearGradient>
+    <linearGradient
+       id="Icons_Dark"
+       gradientTransform="translate(32,2224)">
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
          offset="0"
@@ -32,7 +61,7 @@
     </linearGradient>
     <linearGradient
        id="Icons_Light"
-       gradientTransform="matrix(-6.7717873,-28.431738,-27.796996,8.3792048,89580.554,-64532.182)">
+       gradientTransform="matrix(-2.7833237,20.30844,-11.425053,-5.9851622,28026.468,51462.277)">
       <stop
          style="stop-color:black;stop-opacity:1;"
          offset="0"
@@ -61,10 +90,10 @@
   <g
      id="layer3"
      style="display:inline"
-     transform="translate(-320,-417.99993)">
+     transform="translate(-320,-415.99999)">
     <g
        id="03_TablacusVector\misc\add"
-       transform="translate(0,97.99999)">
+       transform="translate(0,96.00005)">
       <rect
          y="319.99994"
          x="320"
@@ -72,17 +101,10 @@
          width="64"
          id="use7750"
          style="display:inline;fill:white;fill-opacity:0;stroke:none;stroke-linecap:round;stroke-opacity:1" />
-      <rect
-         y="319.99994"
-         x="320"
-         height="64"
-         width="64"
-         id="use7918"
-         style="display:inline;fill:white;fill-opacity:0;stroke:none;stroke-linecap:round;stroke-opacity:1" />
       <path
          id="path5204"
          d="m 350,326 v 48"
-         style="fill:white;fill-opacity:0.30303;stroke:currentcolor;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:white;fill-opacity:0.30303;stroke:currentColor;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <use
          height="100%"
          width="100%"
